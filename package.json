@@ -1,0 +1,21 @@
+{
+    "author": "fracmt@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "test",
+    "pebble": {
+        "displayName": "test",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "6880d09c-5dbb-4745-9260-7b018721f0f8",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
